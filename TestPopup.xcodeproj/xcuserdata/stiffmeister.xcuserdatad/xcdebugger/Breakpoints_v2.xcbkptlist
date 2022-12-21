@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "56A23BA7-5DE1-4C64-9A28-4473605A97C9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0FDC1639-D9CA-403F-9BA1-F960D0632E11"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestPopup/MidViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "viewWillDisappear(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0FDC1639-D9CA-403F-9BA1-F960D0632E11 - a5dfe7dead68089b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestPopup.MidViewController.viewWillDisappear(Swift.Bool) -&gt; ()"
+                  moduleName = "TestPopup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stiffmeister/Work/iOS/Test%20projects/TestPopup/TestPopup/MidViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "0FDC1639-D9CA-403F-9BA1-F960D0632E11 - ed948340bc40a9d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIWindow) -&gt; Swift.Bool in TestPopup.MidViewController.viewWillDisappear(Swift.Bool) -&gt; ()"
+                  moduleName = "TestPopup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stiffmeister/Work/iOS/Test%20projects/TestPopup/TestPopup/MidViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
